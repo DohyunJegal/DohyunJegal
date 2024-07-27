@@ -1,5 +1,5 @@
 - 👋 제갈도현 @DohyunJegal
-- 🌱 충북대학교 소프트웨어학과 재학중
+- 🌱 충북대학교 소프트웨어학과 졸업
 - 📫 dohyunm14@chungbuk.ac.kr
 
 <!---
